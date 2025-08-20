@@ -1,4 +1,4 @@
-![DaggerTest Logo](images/logo.png)
+![DaggerTest Logo](images/logo.webp)
 
 ### A Selenium Ruby testing framework for [*DaggerQuest*](https://github.com/Laserwolve-Games/DaggerQuest) and [*DaggerQuest.com*](https://github.com/Laserwolve-Games/DaggerQuest.com).
 
