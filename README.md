@@ -43,7 +43,7 @@ The framework automatically detects and uses the default browser on your system:
 - [**DaggerQuest-Test-Realm**](https://github.com/Laserwolve-Games/DaggerQuest-Test-Realm) - The official testing environment for *DaggerQuest*.
 - [**Overlord**](https://github.com/Laserwolve-Games/Overlord) - An render pipeline management tool used to generated assets for *DaggerQuest*.
 - [**CAFfeine**](https://github.com/Laserwolve-Games/CAFfeine) - An automation and testing framework for *DaggerQuest* and Construct 3 in general.
-- [**Plains of Shinar**](https://github.com/Laserwolve-Games/PlainsOfShinar) - An attempt at porting *DaggerQuest* to Pixi.js.
+- [**Plains of Shinar**](https://github.com/Laserwolve-Games/PlainsOfShinar) - A re-hash *DaggerQuest* as a traditional desktop app, with a different tech stack.
 
 ## ✒️ License
 
